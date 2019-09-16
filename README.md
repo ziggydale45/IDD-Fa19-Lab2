@@ -100,7 +100,9 @@ void loop() {
 
 **a. How would you change the code to make the song play twice as fast?**
  `int pauseBetweenNotes = noteDuration * .5;`
+
 **b. What song is playing?**
+Star Wars!
 
 
 ## Part E. Make your own timer
