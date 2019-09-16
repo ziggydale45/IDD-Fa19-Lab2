@@ -256,6 +256,7 @@ void loop() {
     initialDisplay = false;
   }
   
-}```
+}
+```
 
 **b. Post a link to the completed lab report your class hub GitHub repo.**
