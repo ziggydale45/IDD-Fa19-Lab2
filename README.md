@@ -100,21 +100,25 @@ void loop() {
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
+
 https://www.youtube.com/watch?v=Ek7LX42Rp0s
 
 
 ## Part D. Make your Arduino sing!
 
 **a. How would you change the code to make the song play twice as fast?**
- `int pauseBetweenNotes = noteDuration * .5;`
+ 
+ `int pauseBetweenNotes = noteDuration * .65;`
 
 **b. What song is playing?**
+
 Star Wars!
 
 
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+
 https://www.youtube.com/watch?v=wof22MpvAXM
 
 
