@@ -10,11 +10,13 @@ Include your responses to the bold questions below. Include snippets of code tha
 ## Part B. Writing to the LCD
  
 **a. What voltage level do you need to power your display?**
+5V
 
 **b. What voltage level do you need to power the display backlight?**
+3V
    
 **c. What was one mistake you made when wiring up the display? How did you fix it?**
-
+My wires were really messy, so it became difficult to track what went were. I ended up redoing my wiring so that each wire was color coded and easier to track.
 **d. What line of code do you need to change to make it flash your name instead of "Hello World"?**
 `lcd.print("hello, world!");` to `lcd.print("hello, Jesse!");`
  
@@ -95,6 +97,7 @@ void loop() {
 ## Part C. Using a time-based digital sensor
 
 **Upload a video of your working rotary encoder here.**
+https://www.youtube.com/watch?v=Ek7LX42Rp0s
 
 
 ## Part D. Make your Arduino sing!
@@ -109,6 +112,7 @@ Star Wars!
 ## Part E. Make your own timer
 
 **a. Make a short video showing how your timer works, and what happens when time is up!**
+https://www.youtube.com/watch?v=wof22MpvAXM
 
 
 Code:
